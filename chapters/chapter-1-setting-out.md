@@ -31,8 +31,8 @@ Das erste Artefakt definiert den Zweck und den Mehrwert der Anwendung, bevor die
 
 Focus: Reduktion von Fehlentscheidungen unter Zeitdruck durch gerichtete Notfallalarme und geteilte Dashboards.
 
-**File:** `[Name](Link)`
-Artifact I: Situation & Intent (Prüfe den Link!)
+**File:**
+[Artifact I: Situation & Intent](artifact-1-situation-intent.md)
 
 **Build:**
 
