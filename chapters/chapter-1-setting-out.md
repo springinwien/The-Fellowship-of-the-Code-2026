@@ -18,16 +18,14 @@ Die Idee unseres Projekts ist eine interaktive Anwendung namens „Horn of (Digi
 
 - In dieser Phase haben wir gelernt, wie man eine Problemstellung strukturiert analysiert und daraus ein klares Anwendungskonzept ableitet. Wir haben verstanden, dass es wichtig ist, zuerst die Situation und das Ziel der Anwendung zu definieren, bevor man mit Design oder Programmierung beginnt.
 - Wir haben Logik zur Darstellung von Zuständen (z. B. Survival, Pressure, Coordination) entwickelt und diese visuell in einer Map umgesetzt, um die Situation verständlich darzustellen.
-- Wir haben AI als Unterstützung genutzt, um Grafik von Map zu erstellen und Ideen zu finden. AI lieferte hilfreiche Vorschläge , diese aber nicht immer direkt passend sind und angepasst werden müssen.
+- Wir haben AI als Unterstützung genutzt, um unsere Idee zu visualieren. AI lieferte hilfreiche Vorschläge , diese aber nicht immer direkt passend sind und angepasst werden müssen.
 Wichtig war, die Vorschläge kritisch zu hinterfragen und eigenständig weiterzuentwickeln.
-- Wir haben unser Konzept und unsere Umsetzung so aufgebaut, dass sie als Grundlage für weitere Aufgaben dienen kann.
-Die entwickelte Anwendung ist erweiterbar und kann in späteren Phasen weiter ausgebaut werden, z. B. durch zusätzliche Funktionen oder detailliertere Simulationen.
 
 ---
 
 ## Artifact
 
-Das erste Artefakt definiert den Zweck und den Mehrwert der Anwendung, bevor die erste Zeile Code geschrieben wird.
+Das erste Artefakt definiert den Zweck und den Mehrwert der Anwendung.
 
 Focus: Reduktion von Fehlentscheidungen unter Zeitdruck durch gerichtete Notfallalarme und geteilte Dashboards.
 
@@ -45,7 +43,7 @@ Die Anwendung richtet sich an die Mitglieder der Gefährten. Ziel ist es, eine s
 
 ## AI Assistance
 
-Für die Entwicklung des Konzepts und der Anwendung wurde AI verwendet bei: 
+Für die Entwicklung des Konzepts und der Anwendung wurde AI verwendet bei, wobei die Ausgangsituation (Schlacht am Amon Hen) von uns vorgegeben wurde
 
 - Strukturierung der Aufgabe (Situation, Intent, Value)
 - Entwicklung der Idee eines Alarm-Systems
@@ -57,19 +55,20 @@ Hilfreich war vor allem:
 
 Teilweise mussten Vorschläge angepasst werden, da: 
 - einige Lösungen zu technisch oder zu komplex waren
-- nicht alle Funktionen direkt zur Aufgabenstellung gepasst haben
+- nicht alle Funktionen direkt zur Aufgabenstellung gepasst haben 
 
 Wir haben die Vorschläge iterativ angepasst, bis sie zur Idee und Aufgabe gepasst haben.
 
 
 ## Lessons Learned
 
-In dieser Aufgabe haben wir verstanden, dass es nicht darum geht, sofort eine perfekte Lösung zu bauen, sondern zuerst das Problem klar zu definieren. Eine wichtige Erkenntnis war, dass Kommunikation und Koordination entscheidend sind und oft wichtiger als individuelle Stärke.
+In dieser Aufgabe haben wir gelernt, dass es nicht darum geht, sofort eine perfekte Lösung zu bauen, sondern zuerst eine umsetzbare Idee zu finden. Eine wichtige Erkenntnis war, dass AI zwar eine gute Hilfe ist vor allem, um unsere Grundidee zu visualisieren und die Umsetzbarkeit zu prüfen, jedoch am Ende wir immer noch unsere eigenen Inputs dazugegeben haben, damit ein umsetzbares Konzept entstand.
 
 Schwierig war vor allem:
-- die Situation konkret zu formulieren (nicht zu allgemein)
-- zwischen Konzept und Umsetzung zu unterscheiden
-- sinnvolle Ziele zu definieren
+- eine korrekte Situation zu finden
+- das erste mal Github zu verwenden
+- den Überblick über die Aufgaben zu behalten
+- kein Weak-Example abzuliefern
   
-Wir haben gelernt, dass eine gute Lösung davon abhängt, wie klar man die Ausgangssituation versteht und strukturiert.
-Außerdem wurde deutlich, dass Visualisierung (z. B. Karte) helfen kann, komplexe Probleme besser darzustellen und zu verstehen.
+Wir haben gelernt, dass eine gute Lösung davon abhängt, wie klar man die Ausgangssituation definiert.
+Außerdem wurde deutlich, dass bereites eine grobe Visualisierung hilft, unser Konzept besser weiterentwicklen zu können.
