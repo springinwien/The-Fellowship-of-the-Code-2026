@@ -17,12 +17,12 @@
 
 ## Purpose of The Fellowship Companion (TFC)
 
-Am Amon Hen wird ein Mitglied der Gemeinschaft von mehreren Gegnern angegriffen, während die anderen räumlich getrennt sind. Das einzige Signal – das Horn – ist zu spät, ungerichtet und liefert keine verwertbaren Informationen.
-Die Folge: Niemand weiß, wo Hilfe benötigt wird, wie dringend die Situation ist oder ob koordiniertes Eingreifen noch möglich ist.
+At Amon Hen, a member of the Fellowship is attacked by multiple enemies while the others are physically separated. The only signal—the horn—is too late, directionless, and provides no actionable information. 
+As a result, no one knows where help is needed, how urgent the situation is, or whether coordinated intervention is still possible.
 
 - **Who we are:** The Fellowship - a group of 5 hobbits (students) working together.  
-- **What we build:** Ein System, das ein einzelnes Notsignal in ein sofort verständliches, gemeinsames Lagebild überführt.  
-- **Why we build it:** Weil in Situationen wie am Amon Hen Zeitverlust und Unklarheit direkt zu fatalen Konsequenzen führen.
+- **What we build:** A system that transforms a single distress signal into an immediately understandable, shared situational picture.  
+- **Why we build it:** Because in situations like Amon Hen, delays and uncertainty can lead directly to fatal consequences.
 
 ---
 
@@ -66,10 +66,10 @@ Die Folge: Niemand weiß, wo Hilfe benötigt wird, wie dringend die Situation is
 
 ## Key Features of The Fellowship Companion
 
-- **Gerichteter Notruf (statt einfachem Alarm):** Übermittelt wer betroffen ist, wo sich die Person befindet und seit wann die Situation besteht  
-- **Gemeinsames Lagebild:** Alle sehen denselben, sich aktualisierenden Zustand, statt verteilter Einzelinformationen  
-- **Rettungskoordination:** Stellt dar, wer reagiert, von wo aus und mit welchem Fortschritt 
-- **Darstellung kritischer Zustände:** Zeigt zentrale Faktoren wie Bedrohungsniveau, verbleibende Zeit und geschätzte Überlebenschance  
+- **Directed emergency call (instead of a simple alarm):** Transmits who is affected, where the person is located, and how long the situation has been ongoing  
+- **Shared situational awareness:** Everyone sees the same, continuously updating state instead of fragmented, individual pieces of information
+- **Rescue coordination:** Shows who is responding, from where, and their current progress
+- **Visualization of critical conditions:** Displays key factors such as threat level, remaining time, and estimated chance of survival
 
 ---
 
@@ -79,8 +79,7 @@ Die Folge: Niemand weiß, wo Hilfe benötigt wird, wie dringend die Situation is
 
 *`Each chapter has its own detailed changelog for chapter-specific updates.`*
 
-*`Adapt to your project...`*
-
-- X
-- Y
-- Z
+- Created the repository
+- Added folders and files
+- Wrote Readme.md
+- Compiled Artifact 1
