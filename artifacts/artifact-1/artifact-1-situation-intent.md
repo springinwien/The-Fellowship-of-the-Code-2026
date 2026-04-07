@@ -2,77 +2,78 @@
 
 ## 1. Situation
 
-Am Amon Hen wird ein Mitglied der Gemeinschaft von mehreren Gegnern angegriffen, während die anderen räumlich getrennt sind.  
-Das einzige Signal – das Horn – ist **zu spät, ungerichtet und ohne klare Information**.
+At Amon Hen, a member of the Fellowship is attacked by multiple enemies while the others are physically separated.
+The only signal—the horn—is **too late, undirected, and lacks clear information**.
 
-Die Situation ist kritisch, weil Entscheidungen unter **Zeitdruck, Unsicherheit und fehlender Übersicht** getroffen werden müssen.  
-Es gibt **kein gemeinsames Lagebild**, keine klare Priorisierung und keine koordinierte Reaktion.
+The situation is critical because decisions must be made under **time pressure, uncertainty, and lack of visibility** getroffen werden müssen.  
+There is **no shared situational awareness**, no clear prioritization, and no coordinated response.
 
 ---
 
 ## 2. Intent
 
-Das Horn of (Digital) Gondor 2 adressiert genau solche Situationen.
+The Horn of (Digital) Gondor 2.0 is designed to address exactly these kinds of situations.
 
-Die Anwendung ermöglicht es, einen Notfall so zu erfassen, dass **alle Mitglieder sofort verstehen, was passiert, wo es passiert und wie dringend es ist**.
+The application enables emergencies to be captured and communicated in a way that **all members immediately understand what is happening, where it is happening, and how urgent it is**.
 
-Ziel ist nicht, Entscheidungen abzunehmen, sondern die Grundlage zu schaffen, damit die Gemeinschaft **unter Unsicherheit schnell und abgestimmt handeln kann**.
+The goal is not to make decisions for the group, but to provide the foundation that allows the Fellowship to **act quickly and in a coordinated way under uncertainty**.
 
-Primäre Nutzer sind die Mitglieder der Gemeinschaft in verteilten, gefährlichen Umgebungen.
+The primary users are members of the Fellowship operating in distributed, high-risk environments.
 
 ---
 
 ## 3. Value
 
-Der Mehrwert entsteht in dem Moment, in dem Zeit und Klarheit über Leben und Tod entscheiden.
+The value emerges in the exact moment when time and clarity determine life or death.
 
-Ohne das System:
-- Signale sind unklar oder kommen zu spät  
-- Informationen müssen interpretiert werden  
-- Reaktionen erfolgen verzögert oder unkoordiniert  
+Without the system:
+- Signals are unclear or arrive too late
+- Information must be interpreted
+- Responses are delayed or uncoordinated
 
-Mit dem System:
-- Die Reaktionszeit wird reduziert  
-- Alle Beteiligten handeln auf Basis desselben Lagebilds  
-- Koordinierte Hilfe wird überhaupt erst möglich  
+With the system:
+- Response time is reduced
+- All participants act based on the same situational picture
+- Coordinated assistance becomes possible in the first place 
 
-Der Wert liegt somit nicht in allgemeiner Unterstützung, sondern in der **Reduktion von Fehlentscheidungen unter Zeitdruck**.
+The value therefore lies not in general support, but in the **reduction of misjudgments under time pressure**.
 
 ---
 
 ## 4. System Capabilities
 
-Das System ermöglicht:
+The system enables:
 
-- **Gerichtete Notfallalarme:**  
-  Übermitteln konkrete Informationen statt bloßer Signale  
+- **Directed emergency alerts:**  
+  Transmit concrete, actionable information instead of mere signals  
 
-- **Darstellung von Dringlichkeit und Gefahr:**  
-  Macht klar, wie schnell gehandelt werden muss  
+- **Representation of urgency and danger:**  
+ Makes it clear how quickly action is required  
 
-- **Gemeinsames Lagebild:**  
-  Stellt eine einheitliche Sicht auf die Situation für alle her  
+- **Shared situational awareness:**  
+  Provides a unified view of the situation for all participants  
 
-- **Koordination von Reaktionen:**  
-  Zeigt, wer handelt und wie Aktionen zusammenwirken  
+- **Coordination of responses:**  
+  Shows who is acting and how actions align and interact  
 
-- **Sichtbarkeit kritischer Zustände:**  
-  Macht Faktoren wie Bedrohung und verbleibende Zeit explizit  
+- **Visibility of critical conditions:**  
+  Makes factors such as threat level and remaining time explicit  
 
 ---
 
 ## 5. Assumptions & Constraints
 
-- **Unvollständige Information:**  
-  Das System muss mit fehlenden oder unsicheren Daten umgehen → Unsicherheit wird sichtbar gemacht  
+- **Incomplete information:**  
+  The system must handle missing or uncertain data → uncertainty is made visible  
 
-- **Räumliche Trennung:**  
-  Mitglieder sind verteilt → Lagebild muss ohne direkte Abstimmung funktionieren  
+- **Geographical separation:**  
+ Members are distributed → the situational picture must work without direct coordination  
 
-- **Zeitdruck:**  
-  Entscheidungen müssen schnell getroffen werden → Informationen werden priorisiert und reduziert  
-- **Gefährliche, unübersichtliche Umgebung:**  
-  Wahrnehmung ist eingeschränkt → System muss Klarheit schaffen, nicht zusätzliche Komplexität  
+- **Time pressure:**  
+ Decisions must be made quickly → information is prioritized and reduced
+  
+- **Dangerous, complex environment:**  
+  Perception is limited → the system must create clarity, not additional complexity  
 
-- **Eingeschränkte Kommunikation:**  
-  Keine kontinuierliche Verbindung → System muss mit minimalen Signalen funktionieren  
+- **Limited communication:**  
+ No continuous connection → the system must function with minimal signals  
