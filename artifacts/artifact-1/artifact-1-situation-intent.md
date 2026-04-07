@@ -5,16 +5,16 @@
 At Amon Hen, a member of the Fellowship is attacked by multiple enemies while the others are physically separated.
 The only signal—the horn—is **too late, undirected, and lacks clear information**.
 
-The situation is critical because decisions must be made under **time pressure, uncertainty, and lack of visibility** getroffen werden müssen.  
+The situation is critical because decisions must be made under **time pressure, uncertainty, and lack of visibility**.  
 There is **no shared situational awareness**, no clear prioritization, and no coordinated response.
 
 ---
 
 ## 2. Intent
 
-The Horn of (Digital) Gondor 2.0 is designed to address exactly these kinds of situations.
+The Horn of (Digital) Gondor 2.0 is designed to address situations like this.
 
-The application enables emergencies to be captured and communicated in a way that **all members immediately understand what is happening, where it is happening, and how urgent it is**.
+The application enables emergencies to be captured and shared in a way that **all members immediately understand what is happening, where it is happening, and how urgent it is**.
 
 The goal is not to make decisions for the group, but to provide the foundation that allows the Fellowship to **act quickly and in a coordinated way under uncertainty**.
 
@@ -47,7 +47,7 @@ The system enables:
 - **Directed emergency alerts:**  
   Transmit concrete, actionable information instead of mere signals  
 
-- **Representation of urgency and danger:**  
+- **Clear indication of urgency and risk:**  
  Makes it clear how quickly action is required  
 
 - **Shared situational awareness:**  
