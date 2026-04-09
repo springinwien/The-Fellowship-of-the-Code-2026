@@ -32,7 +32,7 @@ The first artifact defines the purpose and added value of the application.
 
 **Build:**
 
-- simple map visualization
+- [simple map visualization](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/Draft%20Map.png)
   
 **Focus:**
 
