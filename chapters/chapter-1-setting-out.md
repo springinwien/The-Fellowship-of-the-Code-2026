@@ -28,11 +28,11 @@ The idea of our project is an interactive application, based on the scene of Bor
 The first artifact defines the purpose and added value of the application.
 
 **File:**
-[Artifact I: Situation & Intent](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/00ba8f3896323b54b16ee0b3122aa9c5057a6ecd/artifacts/artifact-1/artifact-1-situation-intent.md)
+- [Artifact I: Situation & Intent](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/00ba8f3896323b54b16ee0b3122aa9c5057a6ecd/artifacts/artifact-1/artifact-1-situation-intent.md)
 
 **Build:**
 
-- [simple map visualization](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/Draft%20Map.png)
+- [Simple map visualization](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/Draft%20Map.png)
   
 **Focus:**
 
