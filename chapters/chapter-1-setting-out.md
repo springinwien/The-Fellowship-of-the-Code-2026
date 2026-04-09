@@ -1,6 +1,6 @@
 # The Red Book of Westmarch - Chapter 1: Setting out
 
-"One does not simply walk into Mordor." - Boromir
+“It is a strange fate that we should suffer so much fear and doubt over so small a thing … such a little thing.” — **Boromir**
 
 **Table of Contents**
 
@@ -12,63 +12,58 @@
 
 ## Summary
 
-Die Idee unseres Projekts ist eine interaktive Anwendung namens „Horn of (Digital) Gondor 2.0“, die auf der Szene von Boromir am Amon Hen basiert. Das Problem ist, dass Boromir stirbt, weil die Kommunikation innerhalb der Gefährten zu langsam und unkoordiniert ist. Die Gruppe kann nicht rechtzeitig reagieren. Die Anwendung zeigt, wie ein digitales Alarm- und Koordinationssystem helfen könnte, schneller zu reagieren und dadurch das Ergebnis zu verändern.
+The idea of our project is an interactive application, based on the scene of Boromir at Amon Hen. The problem is that Boromir dies because communication within the Fellowship is too slow and uncoordinated. The group is unable to respond in time. The application demonstrates how a digital alert and coordination system could help them react more quickly and potentially change the outcome.
 
 **Learning Outcomes**
 
-- In dieser Phase haben wir gelernt, wie man eine Problemstellung strukturiert analysiert und daraus ein klares Anwendungskonzept ableitet. Wir haben verstanden, dass es wichtig ist, zuerst die Situation und das Ziel der Anwendung zu definieren, bevor man mit Design oder Programmierung beginnt.
-- Wir haben Logik zur Darstellung von Zuständen (z. B. Survival, Pressure, Coordination) entwickelt und diese visuell in einer Map umgesetzt, um die Situation verständlich darzustellen.
-- Wir haben AI als Unterstützung genutzt, um unsere Idee zu visualieren. AI lieferte hilfreiche Vorschläge , diese aber nicht immer direkt passend sind und angepasst werden müssen.
-Wichtig war, die Vorschläge kritisch zu hinterfragen und eigenständig weiterzuentwickeln.
-
+- We learned how to break down a problem and turn it into a clear concept.
+- We realized that it’s important to define the situation and the goal before starting with design or coding.
+- We used AI to visualize our idea. It provided helpful suggestions, but we had to adapt and improve them ourselves.
+- We learned how to use GitHub and create a repository.
+  
 ---
 
 ## Artifact
 
-Das erste Artefakt definiert den Zweck und den Mehrwert der Anwendung.
-
-Focus: Reduktion von Fehlentscheidungen unter Zeitdruck durch gerichtete Notfallalarme und geteilte Dashboards.
+The first artifact defines the purpose and added value of the application.
 
 **File:**
 [Artifact I: Situation & Intent](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/00ba8f3896323b54b16ee0b3122aa9c5057a6ecd/artifacts/artifact-1/artifact-1-situation-intent.md)
 
 **Build:**
 
-... [requirements document / Mermaid flow / wireframe / HTML + CSS page / JavaScript page / low-code extension]
-
+- simple map visualization
+  
 **Focus:**
 
-Die Anwendung richtet sich an die Mitglieder der Gefährten. Ziel ist es, eine schnelle Alarmierung und bessere Koordination innerhalb der Gruppe zu ermöglichen. Nutzer sollen durch das System schneller erkennen, dass ein Notfall vorliegt, und gezielt reagieren können. Die Anwendung unterstützt Entscheidungen, ersetzt sie aber nicht. Sie liefert Informationen, verbessert die Kommunikation und hilft dabei, eine koordinierte Reaktion zu ermöglichen.
+The application is designed for the members of the Fellowship. The goal is to enable faster alerts and better coordination within the group. Users should be able to quickly recognize when there is an emergency and respond in a targeted way.
+
+The application supports decision-making, but does not replace it. It provides information, improves communication, and helps enable a coordinated response.
 
 
 ## AI Assistance
 
-Für die Entwicklung des Konzepts und der Anwendung wurde AI verwendet bei, wobei die Ausgangsituation (Schlacht am Amon Hen) von uns vorgegeben wurde
+AI was used during the development of the concept and the application, while the initial situation (Battle of Amon Hen) was defined by us.
 
-- Strukturierung der Aufgabe (Situation, Intent, Value)
-- Entwicklung der Idee eines Alarm-Systems
-- Umsetzung der Simulation (Map, Figuren)
+Helpful:
+- structuring the task (situation, intent, value)
+- developing the idea of an alarm system
+- suggestions for visualization (map, regions, characters)
 
-Hilfreich war vor allem:
-- die klare Strukturierung der Anforderungen
-- Vorschläge für Visualisierung (Map, Regionen, Figuren)
+Problems:
+- some solutions were too technical or too complex
+- not all features fit the task directly
 
-Teilweise mussten Vorschläge angepasst werden, da: 
-- einige Lösungen zu technisch oder zu komplex waren
-- nicht alle Funktionen direkt zur Aufgabenstellung gepasst haben 
-
-Wir haben die Vorschläge iterativ angepasst, bis sie zur Idee und Aufgabe gepasst haben.
+We improved the results step by step until they matched our idea and the requirements.
 
 
 ## Lessons Learned
 
-In dieser Aufgabe haben wir gelernt, dass es nicht darum geht, sofort eine perfekte Lösung zu bauen, sondern zuerst eine umsetzbare Idee zu finden. Eine wichtige Erkenntnis war, dass AI zwar eine gute Hilfe ist vor allem, um unsere Grundidee zu visualisieren und die Umsetzbarkeit zu prüfen, jedoch am Ende wir immer noch unsere eigenen Inputs dazugegeben haben, damit ein umsetzbares Konzept entstand.
+In this task, we learned that it’s not about building a perfect solution right away, but first about finding an idea that is actually feasible. We learned that even a rough visualization already helps a lot to further develop our concept.
 
-Schwierig war vor allem:
-- eine korrekte Situation zu finden
-- das erste mal Github zu verwenden
-- den Überblick über die Aufgaben zu behalten
-- kein Weak-Example abzuliefern
-  
-Wir haben gelernt, dass eine gute Lösung davon abhängt, wie klar man die Ausgangssituation definiert.
-Außerdem wurde deutlich, dass bereites eine grobe Visualisierung hilft, unser Konzept besser weiterentwicklen zu können.
+The main challenges were:
+
+- finding a suitable situation
+- using GitHub for the first time
+- keeping track of all the tasks
+- avoiding a weak example
