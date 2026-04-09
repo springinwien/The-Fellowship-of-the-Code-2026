@@ -83,3 +83,4 @@ As a result, no one knows where help is needed, how urgent the situation is, or 
 - Added folders and files
 - Wrote Readme.md
 - Compiled Artifact 1
+- Wrote Chapter 1 Setting out
