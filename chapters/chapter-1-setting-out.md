@@ -1,6 +1,6 @@
 # The Red Book of Westmarch - Chapter 1: Setting out
 
-“It is a strange fate that we should suffer so much fear and doubt over so small a thing … such a little thing.” — **Boromir**
+*`"It is a strange fate that we should suffer so much fear and doubt over so small a thing … such a little thing.” — **Boromir** `*
 
 **Table of Contents**
 
