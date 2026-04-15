@@ -22,8 +22,14 @@ Während der Reise können Mitglieder der Fellowship getrennt werden oder plötz
 
 ## Design Rationale
 
-This design supports the intent because it helps the Fellowship make decisions. The flow is straightforward and easy to understand.
+The goal of this design is to support quick and clear decision-making in a dangerous situation.
 
-I did not include too many details because that would make it complicated. The system should stay simple.
+The Emergency Alert System helps improve communication and coordination between Fellowship members. This is important because the system should help users stay aligned and react to changing situations.
+
+We focused on one main decision: whether to send an alert or not. This makes the feature easy to understand and fits the goal of Phase 2.
+
+The interface is simple and only shows the most important information. This helps reduce confusion and allows the user to act quickly.
+
+We assumed that the user is under time pressure and does not have much time to think, so the design supports fast and clear actions.
 
 **Assumption:** The user knows what decision they want to make.
