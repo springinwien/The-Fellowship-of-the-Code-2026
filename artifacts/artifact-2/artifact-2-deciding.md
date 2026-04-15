@@ -2,9 +2,11 @@
 
 ## System Capability
 
-**Support decision-making for the Fellowship.**
+**Emergency Alert System**
 
-I chose this because decisions are important in the journey.
+Diese Capability wurde gewählt, da sie eine zentrale Herausforderung des Fellowship Companion adressiert: schnelle und koordinierte Kommunikation in Gefahrensituationen.
+
+Während der Reise können Mitglieder der Fellowship getrennt werden oder plötzlich in Gefahr geraten. In solchen Momenten kann eine verzögerte Reaktion das Risiko erheblich erhöhen. Das Emergency Alert System ermöglicht es einem Gefährten, schnell Unterstützung anzufordern, seine Situation zu teilen und unter Zeitdruck eine Entscheidung zu treffen.
 
 ## Flow
 
