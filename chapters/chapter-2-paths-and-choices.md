@@ -1,6 +1,6 @@
 # The Red Book of Westmarch - Chapter X: Title
 
-*`LOTR Quote relevant to the assignment or artifact` `"..." - Character`*
+*`"It is the small everyday decisions of ordinary folk that keep the darkness at bay."` ` - Gandalf`*
 
 **Table of Contents**
 
@@ -14,10 +14,9 @@
 
 ## Summary
 
-*`Adapt to your project...`*
-
-This chapter focuses on **[one specific requirement or artifact]** of The Fellowship Companion.
-It shows **what was added, why it was added, and how it fits into the larger system**.
+In this phase, we selected a specific capability – the Emergency Alert – and designed a user decision flow that supports a Fellowship member in a dangerous situation. The goal was to make the decision process clear, structured, and understandable.
+ 
+Additionally, we created a wireframe to visualize how this decision is presented in the interface.
 
 **Learning Outcomes**
 
@@ -32,7 +31,7 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 *`Adapt to your project...`*
 
-**File:** `[Name](Link)`
+**File:** `[Artifact 2 – Deciding](Link)`
 
 **Build:**
 
@@ -46,18 +45,39 @@ It shows **what was added, why it was added, and how it fits into the larger sys
 
 ## AI Assistance
 
-*`Adapt to your project...`*
-
-- What did I expect?
-- What actually happened?
-- How did AI help or mislead me?
-- What decision (changes) did I make consciously?
-- What would I do differently next time?
+AI was used to support the development of the decision flow and the interface design.
+ 
+- **What AI suggested:**
+  - Initial structure for the decision flow
+  - Possible options and outcomes
+  - Layout ideas for the wireframe
+ 
+- **What worked well:**
+  - Helped structure the flow in a clear and logical way
+  - Provided a good starting point for visual layout
+ 
+- **What was problematic:**
+  - Early versions lacked a real user decision (too system-driven)
+  - Some outcomes were too simplistic (e.g., only success/failure)
+ 
+- **What we changed:**
+  - Added a clear user decision ("Send alert or not")
+  - Refined outcomes to better reflect realistic consequences
+  - Simplified the interface to focus on one capability
 
 ---
 
 ## Lessons Learned
 
-*`Adapt to your project...`*
-
-- Insights, challenges, reflections
+This phase highlighted the importance of structuring decisions before designing interfaces.
+ 
+Key insights:
+ 
+- A system should support **decisions**, not just actions  
+- A good flow must include a **clear user decision**  
+- Designing the flow first makes the interface much easier to build  
+- Simplicity is crucial, especially in critical situations  
+ 
+We also learned that early ideas are often too vague and need refinement. By focusing on one capability, we were able to create a more coherent and understandable solution.
+ 
+Finally, we realized that AI can be helpful, but it requires adjustments to produce suitable results.
