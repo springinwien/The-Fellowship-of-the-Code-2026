@@ -1,4 +1,4 @@
-# The Red Book of Westmarch - Chapter X: Title
+# The Red Book of Westmarch - Chapter 2: Paths and choices
 
 *`"It is the small everyday decisions of ordinary folk that keep the darkness at bay."` ` - Gandalf`*
 
