@@ -31,7 +31,7 @@ There is also a short explanation of what happens if the alert is sent, so the u
 
 A status section shows whether an alert has already been sent.
 
-> [Wireframe](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/995948b57a70a8225ec2d3838a2cc9155cf3e858/artifacts/artifact-2/src/wireframe.png)
+> [Wireframe](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/aef79b021042ca7773ea82ea11a2f3c8ad288179/artifacts/artifact-2/src/wireframe.png)
 
 ## Design Rationale
 
