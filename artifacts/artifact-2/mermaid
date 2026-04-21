@@ -1,0 +1,19 @@
+flowchart TD
+
+A[Fellowship member detects danger] --> B{Send emergency alert?}
+
+B -- Yes --> C[Alert is sent to the Fellowship]
+B -- No --> D[No alert is sent]
+
+C --> E[Location and situation are shared]
+E --> F[Fellowship receives the alert]
+F --> G{Can they respond in time?}
+
+G -- Yes --> H[Help arrives]
+H --> I[End: Situation is stabilized]
+
+G -- No --> J[Help is delayed]
+J --> K[End: Risk remains]
+
+D --> L[User continues alone]
+L --> M[End: Danger increases]
