@@ -19,10 +19,7 @@ If the user decides not to send the alert, no help is organized and the user has
 
 The flow is kept simple on purpose to clearly show the decision and its consequences.
 
-[Flow] (https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/7e07b5e8ce65be18986efaba1d777a36e3982f94/artifacts/artifact-2/src/mermaid.md)
-`[Flow](artifacts/src/flowchart.mermaid.md)`
-
->For this example see [flowchart.weak.mermaid.md](/src/flowchart.weak.mermaid.md)
+> [Flowchart](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/7e07b5e8ce65be18986efaba1d777a36e3982f94/artifacts/artifact-2/src/mermaid.md)
 
 ## Wireframe
 
@@ -34,9 +31,7 @@ There is also a short explanation of what happens if the alert is sent, so the u
 
 A status section shows whether an alert has already been sent.
 
-`[Wireframe](/src/wireframe.png)`
-
-> For this example see [wireframe.weak.png](/src/wireframe.weak.png)
+> [Wireframe](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/995948b57a70a8225ec2d3838a2cc9155cf3e858/artifacts/artifact-2/src/wireframe.png)
 
 ## Design Rationale
 
