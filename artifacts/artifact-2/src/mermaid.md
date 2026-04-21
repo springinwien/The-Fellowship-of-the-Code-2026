@@ -1,51 +1,76 @@
 ```mermaid
+
 flowchart TD
 
-%% Start
-A([Fellowship member detects danger])
+%% --------------------
+%% STYLES
+%% --------------------
+classDef success fill:#d4edda,stroke:#155724,stroke-width:2px,color:#155724;
+classDef warning fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#856404;
+classDef danger fill:#f8d7da,stroke:#721c24,stroke-width:2px,color:#721c24;
+classDef info fill:#e2e3ff,stroke:#3f51b5,stroke-width:1.5px,color:#3f51b5;
 
-%% Decision 1
-B{Send emergency alert?}
+%% --------------------
+%% START
+%% --------------------
+A([Emergency situation occurs]) --> B[Open Fellowship Companion]
+B --> C{Send alert?}
 
-%% Alert path
-C[Alert is sent to the Fellowship]
-E[Location and situation are shared]
-F[Fellowship receives the alert]
+class A,B,C info;
 
-%% Decision 2
-G{Can they respond in time?}
+%% --------------------
+%% YES PATH
+%% --------------------
+C -->|Yes| D[Send Emergency Alert]
+D --> E[Share location]
+D --> F[Report danger details]
 
-%% Positive outcome
-H[Help arrives]
-I([End: Situation is stabilized])
+E --> G[Build alert package]
+F --> G
 
-%% Negative outcome (delay)
-J[Help is delayed]
-K([End: Risk remains])
+class D,E,F,G info;
 
-%% No alert path
-D[No alert is sent]
-L[User continues alone]
-M([End: Danger increases])
+%% Sending process
+G --> H{Sending successful?}
 
-%% Flow
-A --> B
-B -- Yes --> C
-B -- No --> D
+H -->|Yes| I[Alert sent]
 
-C --> E --> F --> G
+H -->|No| H1[Retry sending]
+H1 --> H2{Retry successful?}
 
-G -- Yes --> H --> I
-G -- No --> J --> K
+H2 -->|Yes| I
+H2 -->|No| L([No alert was sent])
 
-D --> L --> M
+class H,H1,H2 warning;
+class O2 danger;
 
-%% Styling
-style A fill:#e0f2fe,stroke:#0284c7,stroke-width:2px
-style B fill:#fef9c3,stroke:#ca8a04,stroke-width:2px
-style G fill:#fef9c3,stroke:#ca8a04,stroke-width:2px
+%% --------------------
+%% RECEPTION
+%% --------------------
+I --> J{Alert received by contacts?}
 
-style I fill:#dcfce7,stroke:#16a34a,stroke-width:2px
-style K fill:#fee2e2,stroke:#dc2626,stroke-width:2px
-style M fill:#fee2e2,stroke:#dc2626,stroke-width:2px
-```
+J -->|Yes| K([Contacts receive alert])
+K --> K1[Help is being organized]
+
+class I,J,K,K1 success;
+
+J -->|No| J1[Delivery failure or no response]
+J1 --> J2[Attempt alternative delivery channel]
+
+J2 --> J3{Eventually received?}
+
+J3 -->|Yes| K
+J3 -->|No| O1([Alert not received])
+O1 --> O3[Help is delayed]
+
+class J1,J2,J3 warning;
+class O1,O3 danger;
+
+%% --------------------
+%% NO PATH
+%% --------------------
+C -->|No| L[No alert sent]
+L --> M[User continues without alert]
+M --> N[No help is organized]
+
+class L,M,N warning;
