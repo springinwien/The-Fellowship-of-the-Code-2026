@@ -2,19 +2,36 @@
 
 ## System Capability
 
-**Emergency Alert System**
+**Emergency Alert**
 
-Diese Capability wurde gewählt, da sie eine zentrale Herausforderung des Fellowship Companion adressiert: schnelle und koordinierte Kommunikation in Gefahrensituationen.
+We chose this capability because it solves a key problem in our system: slow communication in dangerous situations.
 
-Während der Reise können Mitglieder der Fellowship getrennt werden oder plötzlich in Gefahr geraten. In solchen Momenten kann eine verzögerte Reaktion das Risiko erheblich erhöhen. Das Emergency Alert System ermöglicht es einem Gefährten, schnell Unterstützung anzufordern, seine Situation zu teilen und unter Zeitdruck eine Entscheidung zu treffen.
+During the journey, members of the Fellowship can get separated or suddenly face risks. In these moments, it is important to react quickly. The Emergency Alert allows a user to send a signal to the others and ask for help immediately.
 
 ## Flow
+The flow starts when a Fellowship member notices a dangerous situation.
+
+At this point, the user has to decide whether to send an emergency alert or not. This is the main decision in this feature.
+
+If the user sends the alert, the system shares their location and situation with the rest of the Fellowship. The others receive the alert and try to help. If they react fast enough, help arrives and the situation improves. If they are too late, the risk is still there.
+
+If the user decides not to send the alert, no help is organized and the user has to deal with the situation alone, which increases the danger.
+
+The flow is kept simple on purpose to clearly show the decision and its consequences.
 
 `[Flow](/src/flowchart.mermaid.md)`
 
 >For this example see [flowchart.weak.mermaid.md](/src/flowchart.weak.mermaid.md)
 
 ## Wireframe
+
+The wireframe shows a simple emergency screen in the Fellowship Companion.
+
+At the top, the user can see their current situation, including location and risk level. Below that, there are two clear options: sending an emergency alert or not sending one.
+
+There is also a short explanation of what happens if the alert is sent, so the user understands the consequences of their decision.
+
+A status section shows whether an alert has already been sent.
 
 `[Wireframe](/src/wireframe.png)`
 
@@ -24,7 +41,7 @@ Während der Reise können Mitglieder der Fellowship getrennt werden oder plötz
 
 The goal of this design is to support quick and clear decision-making in a dangerous situation.
 
-The Emergency Alert System helps improve communication and coordination between Fellowship members. This is important because the system should help users stay aligned and react to changing situations.
+The Emergency Alert helps improve communication and coordination between Fellowship members. This is important because the system should help users stay aligned and react to changing situations.
 
 We focused on one main decision: whether to send an alert or not. This makes the feature easy to understand and fits the goal of Phase 2.
 
