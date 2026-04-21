@@ -11,13 +11,19 @@ During the journey, members of the Fellowship can get separated or suddenly face
 ## Flow
 The flow starts when a Fellowship member notices a dangerous situation.
 
-At this point, the user has to decide whether to send an emergency alert or not. This is the main decision in this feature.
+At this point, the user has to decide whether to send an emergency alert or not. This is the main decision in the system.
 
-If the user sends the alert, the system shares their location and situation with the rest of the Fellowship. The others receive the alert and try to help. If they react fast enough, help arrives and the situation improves. If they are too late, the risk is still there.
+If the user chooses to send an alert, the system collects key information such as the user’s location and details about the danger. This data is then combined into an emergency alert package and sent to the user’s selected Fellowship contacts.
 
-If the user decides not to send the alert, no help is organized and the user has to deal with the situation alone, which increases the danger.
+If the sending process is successful, the alert is delivered. However, there is also a possibility that the sending fails due to technical issues. In this case, the system attempts to retry the transmission. If the retry is also unsuccessful, no alert is sent.
 
-The flow is kept simple on purpose to clearly show the decision and its consequences.
+When the alert is successfully sent, the system checks whether it is actually received by the contacts. If the alert is received, the contacts are informed and help is organized.
+
+If the user decides not to send the alert, no emergency message is created or transmitted. In this case, no help is organized through the system. The user continues without sending an alert, which results in no coordinated response from the Fellowship.
+
+Overall, the flow highlights both successful and unsuccessful communication paths.
+
+The flow is intentionally structured to clearly show the decision-making process and the possible outcomes of each path, including successful assistance, failed delivery, and no action taken.
 
 > [Flowchart](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/98deef6b4f65cc5421b61abba4f20a3eed2dc853/artifacts/artifact-2/src/mermaid.md)
 
