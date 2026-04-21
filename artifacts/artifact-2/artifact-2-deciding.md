@@ -19,7 +19,7 @@ If the user decides not to send the alert, no help is organized and the user has
 
 The flow is kept simple on purpose to clearly show the decision and its consequences.
 
-> [Flowchart](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/7e07b5e8ce65be18986efaba1d777a36e3982f94/artifacts/artifact-2/src/mermaid.md)
+> [Flowchart](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/98deef6b4f65cc5421b61abba4f20a3eed2dc853/artifacts/artifact-2/src/mermaid.md)
 
 ## Wireframe
 
