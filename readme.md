@@ -84,3 +84,4 @@ As a result, no one knows where help is needed, how urgent the situation is, or 
 | 1.4    | 2026-04-07 | Wrote Chapter 1 Setting out |
 | 1.5    | 2026-04-21 | Compiled Artifact 2 |
 | 1.6    | 2026-04-21 | Added src, mermaid |
+| 1.7    | 2026-04-23 | Wrote Chapter 2 |
