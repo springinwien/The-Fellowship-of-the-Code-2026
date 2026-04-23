@@ -29,9 +29,8 @@ Additionally, we created a wireframe to visualize how this decision is presented
 
 ## Artifact
 
-*`Adapt to your project...`*
-
 **File:** 
+
 [Artifact 2 – Deciding](https://github.com/GollumGPT/The-Fellowship-of-the-Code-2026/blob/48ca08d519e04e42a729f1ffb34c61fd7798702c/artifacts/artifact-2/artifact-2-deciding.md)
 
 **Build:**
