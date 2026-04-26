@@ -75,12 +75,13 @@ As a result, no one knows where help is needed, how urgent the situation is, or 
 
 ## Changelog
 
-*`This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).`*
-
-*`Each chapter has its own detailed changelog for chapter-specific updates.`*
-
-- Created the repository
-- Added folders and files
-- Wrote Readme.md
-- Compiled Artifact 1
-- Wrote Chapter 1 Setting out
+| Version | Date       | Notes |
+|--------|------------|--------|
+| 1.0    | 2026-04-05 | Created the repository |
+| 1.1    | 2026-04-05 | Added folders and files |
+| 1.2    | 2026-04-05 | Wrote Readme.md |
+| 1.3    | 2026-04-06 | Compiled Artifact 1 |
+| 1.4    | 2026-04-07 | Wrote Chapter 1 Setting out |
+| 1.5    | 2026-04-21 | Compiled Artifact 2 |
+| 1.6    | 2026-04-21 | Added src, mermaid |
+| 1.7    | 2026-04-23 | Wrote Chapter 2 |
